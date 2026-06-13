@@ -9,5 +9,3 @@ def add_numbers(a, b):
 # Run the functions
 print(greet("Games"))
 print("2 + 5 =", add_numbers(2, 5))
-#oooopspspspspspss
-   
